@@ -1,0 +1,17 @@
+[
+    {
+        "id": 0,
+        "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1606068354/Croma%20Assets/Communication/Mobiles/Images/9006246756382.png/mxw_640,f_auto",
+        "title": "Samsung"
+    },
+    {
+        "id": 1,
+        "image": "https://m.media-amazon.com/images/I/61B0+qQriPL._AC_UF1000,1000_QL80_.jpg",
+        "title": "IPhone"
+    },
+    {
+        "id": 2,
+        "image": "https://d316acfc88wber.cloudfront.net/global/phones/spark8T/SPARK8T-blue.png",
+        "title": "Lenovo"
+    }
+]
